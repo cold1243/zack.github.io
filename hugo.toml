@@ -1,4 +1,4 @@
 baseURL = 'https://cold1243.github.io/zack_blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'anatole'
+theme = 'PaperMod'
